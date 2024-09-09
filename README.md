@@ -4,4 +4,4 @@
 
 ![](Excel Project.jpg)
 
-_**Disclaimer_**: **The data set does not reflect on any institution or company but rather a dummy for exhibition purposes.**
+_**Disclaimer_**: _**The data set does not reflect on any institution or company but rather a dummy for exhibition purposes.**
