@@ -26,7 +26,7 @@ The aim of the analysis was to access and answer the following questions:
 ## Findings & Analysis and Conclusion.
 --
 The following analysis findings were captured from the analysis and recorded for descisions and strategy purposes.
-![](11.jpg),![](22.jpg),![](33.jpg)
+![](11.jpg)|![](22.jpg)|![](33.jpg)
 
 
 
