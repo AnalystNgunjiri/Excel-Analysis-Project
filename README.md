@@ -2,7 +2,6 @@
 
 **This project ains to show case skills in data analysis using excel tools and function.
 The dataset contains the backlog data fro the year 2021 to year 2024 for short courses in each intake.
-
 ![](Excel Project.jpg)
 
 _**Disclaimer_**: _**The data set does not reflect on any institution or company but rather a dummy for exhibition purposes._**
