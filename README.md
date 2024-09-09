@@ -33,7 +33,7 @@ The following analysis findings were captured from the analysis and recorded for
 ![](66jpg),![](77.jpg),![](88.jpg)
 ![](99.jpg)
 
-_The project aim is to deliver actionable insights by management from a complex dataset.
+The project aim is to deliver actionable insights by management from a complex dataset.
 The report aughts to give reliable source of evidence during the stakeholders seminars.
 
 
