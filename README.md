@@ -23,5 +23,11 @@ The aim of the analysis was to access and answer the following questions:
 3. The favorable intakes for each course.
 4. Which course need to be scrapped off the training schedule.
 
+## Findings & Analysis and Conclusion.
+--
+The following analysis findings were captured from the analysis and recorded for descisions and strategy purposes.
+![](11.jpg, 22.jpg)
+
+
 
 
