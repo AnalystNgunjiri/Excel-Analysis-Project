@@ -36,6 +36,31 @@ The following analysis findings were captured from the analysis and recorded for
 The project aim is to deliver actionable insights by management from a complex dataset.
 The report aughts to give reliable source of evidence during the stakeholders seminars.
 
+## How to use
+1. **Clone the Repository**: Clone this project repository from GitHub.
+
+2. **Set Up the Database**: Run the script provided in the 'REGISTERED STUDENTS DATA' file to create and populate the database.
+
+3. **Run the Queries**: Use the various skills and  queries  to perform your analyis.
+
+4. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
+
+
+## Author- AnalystNgunjiri
+
+This project is part of my portfolio, where i showcase the skills essenstial as a data analysts. If you gave any questions, feedback, or would like to collaborate, feel free to get in touch!
+
+
+## Stay Updated and Join the Community
+
+-**LinkedIn**: [Conect with my profile on the linkedIn page](https://www.linkedin.com/in/isaac-ngunjiri-35429026a)
+
+-**PowerBI Profile**: [Interact with my reporting profile here](https://app.powerbi.com/groups/me/reports/0c5c1ec0-8774-45fc-b5d6-dd3de0ffa709/ReportSection?experience=power-bi)
+
+-**Email**: [Reach of via my official mail](ngunjiriisaac6@gmail.com)
+
+Thank you for your support, and I look forward to reconneccting with you.
+
 
 
 
